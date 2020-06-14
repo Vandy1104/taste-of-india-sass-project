@@ -1,0 +1,74 @@
+// Banner image
+
+.home-page-image{
+  width: 100%;
+  height: 40rem;
+}
+
+// Call to action menu button
+.menu-btn{
+  width: 12rem;
+  font-size: 2rem;
+  display: block;
+  margin: auto;
+  background: #800000;
+  color: white;
+}
+
+.menu-btn:hover{
+  font-size: 1.5rem;
+  color: white;
+}
+
+
+// Welcome tagline
+.tagline1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.tagline1:hover{
+  color: #FF4500;
+  font-size: 3.5rem;
+}
+
+// sub tagline your local Miramar Takeaway
+.tagline2{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.tagline2:hover{
+	color: #FF8C00;
+  font-size: 1.5rem;
+  font-family: 'Open Sans', sans-serif;
+	border: 2px solid #E05434;
+}
+
+// Home page CTA
+.cta{
+  color: white;
+}
+
+.cta:hover{
+  color: inherit;
+}
+
+.map{
+  width: 100%;
+  height: 35rem;
+}
+
+.menu-img{
+  width: 35rem;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.headings{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  text-decoration: underline;
+  color: #800000;
+  padding-top: 30px;
+}

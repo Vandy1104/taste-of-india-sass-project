@@ -1,0 +1,78 @@
+/* -----------------Footer--------------  */
+
+.footer{
+	height: 270px;
+	background: #800000;
+	margin-bottom: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.back{
+	margin-left: 85%;
+}
+
+.back a {
+	color: white;
+}
+
+.back a:hover{
+	color: #FFFFE0;
+}
+
+
+.contactTitle{
+	color: white;
+	font-family: NimbusSanL, helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	margin-bottom : 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+.contact li{
+	color: white;
+	font-family: NimbusSanL, helvetica, sans-serif;
+	text-align: left;
+	padding-bottom: 4px;
+
+}
+
+
+.container{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 10px;
+}
+
+
+.iconBar{
+	font-size: 25px;
+}
+
+.iconBar a {
+	color: white;
+}
+
+.iconBar a:hover {
+	color: #E05434;
+
+}
+
+
+.back a:hover{
+	text-decoration: underline;
+}
+
+.copyright {
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	margin: 10px 15px;
+}

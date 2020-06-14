@@ -1,0 +1,159 @@
+* {
+  list-style: none;
+  text-decoration: none; }
+
+.home-page-image {
+  width: 100%;
+  height: 40rem; }
+
+.menu-btn {
+  width: 12rem;
+  font-size: 2rem;
+  display: block;
+  margin: auto;
+  background: #800000;
+  color: white; }
+
+.menu-btn:hover {
+  font-size: 1.5rem;
+  color: white; }
+
+.tagline1 {
+  font-size: 3rem;
+  font-weight: bold; }
+
+.tagline1:hover {
+  color: #FF4500;
+  font-size: 3.5rem; }
+
+.tagline2 {
+  font-family: 'Open Sans', sans-serif; }
+
+.tagline2:hover {
+  color: #FF8C00;
+  font-size: 1.5rem;
+  font-family: 'Open Sans', sans-serif;
+  border: 2px solid #E05434; }
+
+.cta {
+  color: white; }
+
+.cta:hover {
+  color: inherit; }
+
+.map {
+  width: 100%;
+  height: 35rem; }
+
+.menu-img {
+  width: 35rem;
+  height: auto;
+  display: block;
+  margin: auto; }
+
+.headings {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  text-decoration: underline;
+  color: #800000;
+  padding-top: 30px; }
+
+/* -----------------Footer--------------  */
+.footer {
+  height: 270px;
+  background: #800000;
+  margin-bottom: 0;
+  font-family: 'Open Sans', sans-serif; }
+
+.back {
+  margin-left: 85%; }
+
+.back a {
+  color: white; }
+
+.back a:hover {
+  color: #FFFFE0; }
+
+.contactTitle {
+  color: white;
+  font-family: NimbusSanL, helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px; }
+
+ul {
+  list-style-type: none; }
+
+.contact li {
+  color: white;
+  font-family: NimbusSanL, helvetica, sans-serif;
+  text-align: left;
+  padding-bottom: 4px; }
+
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px; }
+
+.iconBar {
+  font-size: 25px; }
+
+.iconBar a {
+  color: white; }
+
+.iconBar a:hover {
+  color: #E05434; }
+
+.back a:hover {
+  text-decoration: underline; }
+
+.copyright {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  margin: 10px 15px; }
+
+header {
+  width: 100%;
+  height: 180px;
+  background: #800000; }
+
+.navbar {
+  font-size: 3rem;
+  color: white; }
+
+.navbar ul li {
+  display: block;
+  margin: auto; }
+
+.navbar a {
+  color: white; }
+
+.navbar a:hover {
+  color: #00FF00;
+  font-size: 2.5rem; }
+
+.phone {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em; }
+
+img {
+  width: 150px;
+  height: 90px; }
+
+.about-page-image {
+  width: 100%;
+  height: 40rem; }
+
+.about-para {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2em;
+  text-align: justify; }
+
+body {
+  font-family: 'Tangerine', cursive; }
+
+/*# sourceMappingURL=style.css.map */
